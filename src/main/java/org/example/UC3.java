@@ -1,5 +1,6 @@
 
-public class Part_time {
+public class UC3
+{
     public static void main(String[] args) {
         //Constants
         int IS_FULL_TIME = 1;
